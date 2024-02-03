@@ -6,7 +6,7 @@ The car rental application project aims to provide a comprehensive software plat
 
 
 ## Team Members and Roles 
-<List of team members with their respective roles>
+{List of team members with their respective roles}
 
 ## Project Approach and Technology
 
@@ -14,11 +14,11 @@ The car rental application project aims to provide a comprehensive software plat
 Agile/Scrum methodology : Agile/Scrum methodology is employed for iterative development, allowing for flexibility and adaptability to changing requirements.
 
 ### Technology Stack 
-<List of technologies and tools being used (e.g., programming languages, frameworks, databases)>
+{List of technologies and tools being used (e.g., programming languages, frameworks, databases)}
 
 ## SPRINT 1 
 ### User Stories Backlog
-<GitHub issues for each user story> (Each issue should include a clear description of the user story)
+{GitHub issues for each user story} (Each issue should include a clear description of the user story)
 1. Start a reservation
 2. View/Modify/Cancel a reservation
 3. Browse vehicles for rent
@@ -27,8 +27,8 @@ Agile/Scrum methodology : Agile/Scrum methodology is employed for iterative deve
 6. CRUD operations on reservations
 
 ### Task Breakdown
-<Derive tasks from each user story and create GitHub issues> 
-<Assign each task to a team member>
+{Derive tasks from each user story and create GitHub issues>}
+{Assign each task to a team member}
 
 Task 1: Design reservation form UI (Assigned to UI/UX Designer)
 Task 2: Implement backend logic for starting a reservation (Assigned to Backend Developer)
